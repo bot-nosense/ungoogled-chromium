@@ -1,0 +1,25 @@
+{
+  "homepage": "about:blank",
+  "browser": {
+    "show_home_button": false,
+    "check_default_browser": false
+  },
+  "distribution": {
+    "skip_first_run_ui": true,
+    "suppress_first_run_default_browser_prompt": true,
+    "show_welcome_page": false
+  },
+  "profile": {
+    "exit_type": "Normal",
+    "exited_cleanly": true
+  },
+  "session": {
+    "restore_on_startup": 4
+  },
+  "translate": {
+    "enabled": false
+  },
+  "signin": {
+    "allowed": false
+  }
+}
